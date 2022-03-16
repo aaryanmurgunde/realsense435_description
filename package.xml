@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>realsense_435_description</name>
+  <name>realsense435_description</name>
   <version>0.0.0</version>
-  <description>The realsense_435_description package</description>
+  <description>The realsense435_description package</description>
 
   <author email="aaryan.murgunde@gmail.com">Aaryan Murgunde</author>
   <maintainer email="aaryan.murgunde@gmail.com">Aaryan Murgunde</maintainer>

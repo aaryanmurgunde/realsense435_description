@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(realsense_435_description)
+project(realsense435_description)
 
 find_package(catkin REQUIRED COMPONENTS
   gazebo_dev
